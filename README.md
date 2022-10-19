@@ -18,7 +18,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Đặng Văn Thiện**/>
+- :credit_card: My full name is **Dang Van Thien**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
