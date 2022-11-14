@@ -9,17 +9,17 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=thiendvse0252&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=thiendvse0252&color=green) -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Van+Thien+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+## 👋👋About Me
 
 - :credit_card: My full name is **Dang Van Thien**
-- :school: I'm currently the last year student at **FPT University - Ho Chi Minh City Campus**
+- :school: I'm currently the third year student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a NooB. Learning :penguin:
