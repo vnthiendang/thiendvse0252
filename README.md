@@ -1,29 +1,9 @@
-### Hi there 👋
-
-<!-- ![](https://raw.githubusercontent.com/thiendvse0252/my-stats/output/generated/overview.svg) -->
-<!-- ![](https://raw.githubusercontent.com/thiendvse0252/my-stats/output/generated/languages.svg) -->
-
-<p>
-  <!-- <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@thiendvse0252?theme=rule34" alt="Moe Counter" title="Moe Counter"></a> -->
-</p>
-
-
-
-<!-- ![](https://komarev.com/ghpvc/?username=thiendvse0252&color=green) -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Van+Thien+%3C3;Welcome+to+my+profile!" alt="Title"></img>
-</div>
-
-
 ## 👋👋About Me
 
 - :credit_card: My full name is **Dang Van Thien**
-- :school: I'm currently the third year student at **FPT University - Ho Chi Minh City Campus**
-- :books: My major is **Software Engineering**
+- :school: I'm currently the last year student at **FPT University - HCMC**
+- :books: My major is **Software Engineer**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: I'm a NooB. Learning :penguin:
-- :monocle_face: I'm interested in coding, sport, and music
 - :sunglasses: My quote is ***"Optimism and a positive attitude is the key to a happy life. Smile at life, life will smile at you!"*** 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
@@ -44,7 +24,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thiendvse0252&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=thiendvse0252&theme=react-dark"/>
+
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=thiendvse0252&theme=react-dark"/> -->
 </div>
 
@@ -58,22 +38,18 @@
     <img align="center" alt="thiendvse0252 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/thiendv/" target="_blank">
+  <a href="https://www.facebook.com/vanthien.dang.time/" target="_blank">
       <img align="center" alt="thiendvse0252 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/__vnthn25/" target="_blank">
     <img align="center" alt="thiendvse0252 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/thiendvse0252" target="_blank">
-    <img align="center" alt="thiendvse0252 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+
   
 <p> 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! <br/>
   &copy; 2022 Van Thien thiendvse0252
 </div>
 
